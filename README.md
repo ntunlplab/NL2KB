@@ -10,11 +10,8 @@ Each line in the UTF-8 encoded tab separated file is a relation pattern. The fir
 As the example shown as follows, "<實體一> 執導 <實體二>" is a Chinese pattern that suggests the DBpedia property producer with 103 supports and a confidence of 0.112. This mapping is validated by human annotators.  
 <sub> producer <實體一> 執導 <實體二> 103 0.112 T </sub>
   
-# Download
+# Download and Demo
 Please go to [resources page](http://nlg.csie.ntu.edu.tw/nlpresource/nl2kb/) to access resources.
-
-# Demo
-Visit our demonstration system by clicking here.
 
 # How to Cite this resource
 Please cite the following paper when referring to NL2KB in academic publications and papers.
