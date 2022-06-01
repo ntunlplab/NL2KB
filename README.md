@@ -11,8 +11,9 @@ As the example shown as follows, "<實體一> 執導 <實體二>" is a Chinese p
 <sub> producer <實體一> 執導 <實體二> 103 0.112 T </sub>
   
 # Download and Demo
-Please go to [resources page](http://nlg.csie.ntu.edu.tw/nlpresource/nl2kb/) to access resources.
-
+Download [Traditional Chinese](http://nlg.csie.ntu.edu.tw/nlpresource/nl2kb/nl2kb_zhTW.txt) / [Simplified Chinese](http://nlg.csie.ntu.edu.tw/nlpresource/nl2kb/nl2kb_zhCN.txt) pattern.
+Click [here](http://nlg18.csie.ntu.edu.tw/nl2kb/) to visit our demosite.
+  
 # How to Cite this resource
 Please cite the following paper when referring to NL2KB in academic publications and papers.
 
